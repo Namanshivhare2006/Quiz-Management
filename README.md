@@ -5,7 +5,7 @@ This system provides a platform for educators to efficiently create quizzes and 
 - **Admin Dashboard:** Create, edit, and delete quizzes and questions.  
 - **Student Dashboard:** Attempt quizzes and view detailed results.  
 - **Automatic Evaluation:** Instant scoring based on predefined answers.  
-- **Question Types:** Multiple-choice, true/false, and short-answer questions.  
+- **Question Types:** Multiple-choice,   
 - **Analytics and Reports:** Performance tracking and insights for both students and administrators.
 ## Technologies Used
 - **Frontend:** Netbeans Gui  
