@@ -13,5 +13,5 @@ This system provides a platform for educators to efficiently create quizzes and 
 - **Database:** MySQL
 - Make sure you have the following installed:
 Make sure you have the following installed:
-.[Apache netbeans]https://netbeans.apache.org/front/main/download/
-[my sql]https://www.mysql.com/downloads/
+.[Apache netbeans](https://netbeans.apache.org/front/main/download/)
+[my sql](https://www.mysql.com/downloads/)
