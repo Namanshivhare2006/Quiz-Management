@@ -1,5 +1,4 @@
 ## Introduction
-## Introduction
 The **Quiz Management System** is a web-based application designed to streamline the process of creating, managing, and evaluating quizzes. 
 This system provides a platform for educators to efficiently create quizzes and for students to test their knowledge and track their progress.  
 ## Features
